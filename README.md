@@ -1,1 +1,1 @@
-# MERN-Farmacy-App
+# MERN-Pharmacy-App
